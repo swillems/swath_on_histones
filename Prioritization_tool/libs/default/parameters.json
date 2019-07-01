@@ -1,0 +1,34 @@
+{
+    "CONSTANTS": {
+        "PROTON_MASS": 1.007276,
+        "DELTA_C_MASS": 1.003355
+    },
+    "MS": {
+        "MAX_C13": 1,
+        "PRECURSOR_FILE_NAME": "",
+        "PPM": 10
+    },
+    "PRIORITIZATION": {
+        "MAX_PTMC_SIZE": 3,
+        "PRIORITIES_FILE_NAME": "", 
+        "SEQUENTIAL_SEARCHES": 10
+    },
+    "SAMPLE_PREP": {
+        "AA_FILE_NAME": "lib/default/amino_acids.json",
+        "PTM_FILE_NAME": "lib/default/ptms.json",
+        "PROTEIN_FILE_NAME": "",
+        "CLEAVAGE_AAS": "([KR](?=[^P]))",
+        "MAX_MISCLEAVAGES": 1,
+        "MAX_PEPTIDE_LENGTH": 20,
+        "PTMS": {
+            "fixed": {
+                "C": "Carbamidomethyl"
+            },
+            "variable": {
+                "M": [
+                    "Methionine (S)-sulfoxide"
+                ]
+            }
+        }
+    }
+}

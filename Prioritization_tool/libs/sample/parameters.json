@@ -1,0 +1,38 @@
+{
+    "CONSTANTS": {
+        "PROTON_MASS": 1.007276,
+        "DELTA_C_MASS": 1.003355
+    },
+    "MS": {
+        "MAX_C13": 1,
+        "PRECURSOR_FILE_NAME": "files/new_test/precursors.json",
+        "PPM": 10
+    },
+    "PRIORITIZATION": {
+        "MAX_PTMC_SIZE": 3,  
+        "PRIORITIES_FILE_NAME": "files/new_test/priorities.csv", 
+        "SEQUENTIAL_SEARCHES": 10
+    },
+    "SAMPLE_PREP": {
+        "AA_FILE_NAME": "files/new_test/amino_acids.json",
+        "PTM_FILE_NAME": "files/new_test/ptms.json",
+        "PROTEIN_FILE_NAME": "files/new_test/proteins.json",
+        "CLEAVAGE_AAS": "[R]",
+        "MAX_MISCLEAVAGES": 1,
+        "MAX_PEPTIDE_LENGTH": 20,
+        "PTMS": {
+            "fixed": {
+                "K": "N6-propionyllysine", 
+                "n": "Propionylated N-terminus"
+            },
+            "variable": {
+                "K": [
+                    "N6-formyllysine"
+                ], 
+                "M": [
+                    "Methionine (S)-sulfoxide"
+                ]
+            }
+        }
+    }
+}

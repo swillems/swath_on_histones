@@ -1,0 +1,2595 @@
+{
+    "(3R)-3-hydroxyarginine": {
+        "CF": "O1", 
+        "DR": "AA0601", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "(3R)-3-hydroxyasparagine": {
+        "CF": "O1", 
+        "DR": "AA0026", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "N", 
+        "UD": false
+    }, 
+    "(3R)-3-hydroxyaspartate": {
+        "CF": "O1", 
+        "DR": "AA0027", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "D", 
+        "UD": false
+    }, 
+    "(3R,4R)-3,4-dihydroxyproline": {
+        "CF": "O2", 
+        "DR": "AA0479", 
+        "KW": "Hydroxylation", 
+        "MM": 31.989829, 
+        "TG": "P", 
+        "UD": false
+    }, 
+    "(3R,4R)-4,5-dihydroxyisoleucine": {
+        "CF": "O2", 
+        "DR": "AA0449", 
+        "KW": "Hydroxylation", 
+        "MM": 31.989829, 
+        "TG": "I", 
+        "UD": false
+    }, 
+    "(3R,4S)-3,4-dihydroxyproline": {
+        "CF": "O2", 
+        "DR": "AA0282", 
+        "KW": "Hydroxylation", 
+        "MM": 31.989829, 
+        "TG": "P", 
+        "UD": false
+    }, 
+    "(3R,4S)-4-hydroxyisoleucine": {
+        "CF": "O1", 
+        "DR": "AA0448", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "I", 
+        "UD": false
+    }, 
+    "(3S)-3-hydroxyasparagine": {
+        "CF": "O1", 
+        "DR": "AA0478", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "N", 
+        "UD": false
+    }, 
+    "(3S)-3-hydroxyaspartate": {
+        "CF": "O1", 
+        "DR": null, 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "D", 
+        "UD": false
+    }, 
+    "(3S)-3-hydroxyhistidine": {
+        "CF": "O1", 
+        "DR": null, 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "(3S,4R)-3,4-dihydroxyisoleucine": {
+        "CF": "O2", 
+        "DR": "AA0447", 
+        "KW": "Hydroxylation", 
+        "MM": 31.989829, 
+        "TG": "I", 
+        "UD": false
+    }, 
+    "(4R)-4,5-dihydroxyleucine": {
+        "CF": "O2", 
+        "DR": "AA0445", 
+        "KW": "Hydroxylation", 
+        "MM": 31.989829, 
+        "TG": "L", 
+        "UD": false
+    }, 
+    "(4R)-5-hydroxyleucine": {
+        "CF": "O1", 
+        "DR": "AA0443", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "L", 
+        "UD": false
+    }, 
+    "(4R)-5-oxoleucine": {
+        "CF": "H-2 O1", 
+        "DR": "AA0444", 
+        "KW": "Oxidation", 
+        "MM": 13.979265, 
+        "TG": "L", 
+        "UD": false
+    }, 
+    "(5R)-5-hydroxylysine": {
+        "CF": "O1", 
+        "DR": "AA0028", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "(5S)-5-hydroxylysine": {
+        "CF": "O1", 
+        "DR": null, 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "(E)-2,3-didehydrobutyrine": {
+        "CF": "H-2 O-1", 
+        "DR": "AA0547", 
+        "KW": null, 
+        "MM": -18.010565, 
+        "TG": "T", 
+        "UD": false
+    }, 
+    "(E)-2,3-didehydrotyrosine": {
+        "CF": "H-2", 
+        "DR": "AA0365", 
+        "KW": null, 
+        "MM": -2.01565, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "(Z)-2,3-didehydrobutyrine": {
+        "CF": "H-2 O-1", 
+        "DR": "AA0182", 
+        "KW": null, 
+        "MM": -18.010565, 
+        "TG": "T", 
+        "UD": false
+    }, 
+    "(Z)-2,3-didehydrotyrosine": {
+        "CF": "H-2", 
+        "DR": "AA0183", 
+        "KW": null, 
+        "MM": -2.01565, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "1-amino-2-propanone": {
+        "CF": "C-1 H-2 O-2", 
+        "DR": "AA0486", 
+        "KW": null, 
+        "MM": -46.005479, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "1-thioglycine": {
+        "CF": "O-1 S1", 
+        "DR": "AA0265", 
+        "KW": null, 
+        "MM": 15.977156, 
+        "TG": "G", 
+        "UD": false
+    }, 
+    "2',4',5'-topaquinone": {
+        "CF": "H-2 O2", 
+        "DR": "AA0147", 
+        "KW": "TPQ", 
+        "MM": 29.974179, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "2'-methylsulfonyltryptophan": {
+        "CF": "C1 H2 O2 S1", 
+        "DR": "AA0450", 
+        "KW": "Methylation", 
+        "MM": 77.97755, 
+        "TG": "W", 
+        "UD": false
+    }, 
+    "2,3-didehydroalanine (Cys)": {
+        "CF": "H-2 S-1", 
+        "DR": "AA0181", 
+        "KW": null, 
+        "MM": -33.987721, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "2,3-didehydroalanine (Ser)": {
+        "CF": "H-2 O-1", 
+        "DR": "AA0181", 
+        "KW": null, 
+        "MM": -18.010565, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "2,3-didehydroalanine (Tyr)": {
+        "CF": "C-6 H-6 O-1", 
+        "DR": "AA0181", 
+        "KW": null, 
+        "MM": -94.041865, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "2,3-didehydrobutyrine": {
+        "CF": "H-2 O-1", 
+        "DR": null, 
+        "KW": null, 
+        "MM": -18.010565, 
+        "TG": "T", 
+        "UD": false
+    }, 
+    "2,3-didehydrotyrosine": {
+        "CF": "H-2", 
+        "DR": null, 
+        "KW": null, 
+        "MM": -2.01565, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "2-(S-cysteinyl)pyruvic acid O-phosphothioketal": {
+        "CF": "C3 H5 O6 P1", 
+        "DR": "AA0391", 
+        "KW": "Pyruvate", 
+        "MM": 167.982375, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "2-methylglutamine": {
+        "CF": "C1 H2", 
+        "DR": "AA0273", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "Q", 
+        "UD": false
+    }, 
+    "2-oxobutanoic acid": {
+        "CF": "H-3 N-1", 
+        "DR": "AA0129", 
+        "KW": null, 
+        "MM": -17.026549, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "3',4'-dihydroxyphenylalanine": {
+        "CF": "O1", 
+        "DR": "AA0146", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "3'-nitrotyrosine": {
+        "CF": "H-1 N1 O2", 
+        "DR": "AA0537", 
+        "KW": "Nitration", 
+        "MM": 44.985078, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "3,4-dihydroxyarginine": {
+        "CF": "O2", 
+        "DR": "AA0369", 
+        "KW": "Hydroxylation", 
+        "MM": 31.989829, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "3,4-dihydroxyproline": {
+        "CF": "O2", 
+        "DR": "AA0282", 
+        "KW": "Hydroxylation", 
+        "MM": 31.989829, 
+        "TG": "P", 
+        "UD": false
+    }, 
+    "3-hydroxyasparagine": {
+        "CF": "O1", 
+        "DR": "AA0026", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "N", 
+        "UD": false
+    }, 
+    "3-hydroxyaspartate": {
+        "CF": "O1", 
+        "DR": "AA0027", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "D", 
+        "UD": false
+    }, 
+    "3-hydroxyphenylalanine": {
+        "CF": "O1", 
+        "DR": "AA0462", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "F", 
+        "UD": false
+    }, 
+    "3-hydroxyproline": {
+        "CF": "O1", 
+        "DR": "AA0029", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "P", 
+        "UD": false
+    }, 
+    "3-hydroxytryptophan": {
+        "CF": "O1", 
+        "DR": "AA0322", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "W", 
+        "UD": false
+    }, 
+    "3-hydroxyvaline": {
+        "CF": "O1", 
+        "DR": "AA0463", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "V", 
+        "UD": false
+    }, 
+    "3-methylthioaspartic acid": {
+        "CF": "C1 H2 S1", 
+        "DR": "AA0232", 
+        "KW": "Methylation", 
+        "MM": 45.987721, 
+        "TG": "D", 
+        "UD": false
+    }, 
+    "3-oxoalanine (Cys)": {
+        "CF": "H-2 O1 S-1", 
+        "DR": "AA0185", 
+        "KW": null, 
+        "MM": -17.992806, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "3-oxoalanine (Ser)": {
+        "CF": "H-2", 
+        "DR": "AA0185", 
+        "KW": null, 
+        "MM": -2.01565, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "3-phenyllactic acid": {
+        "CF": "H-1 N-1 O1", 
+        "DR": "AA0128", 
+        "KW": null, 
+        "MM": 0.984016, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "4,5,5'-trihydroxyleucine": {
+        "CF": "O3", 
+        "DR": "AA0480", 
+        "KW": "Hydroxylation", 
+        "MM": 47.984744, 
+        "TG": "L", 
+        "UD": false
+    }, 
+    "4,5-dihydroxylysine": {
+        "CF": "O2", 
+        "DR": "AA0370", 
+        "KW": "Hydroxylation", 
+        "MM": 31.989829, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "4-aspartylphosphate": {
+        "CF": "H1 O3 P1", 
+        "DR": "AA0033", 
+        "KW": "Phosphoprotein", 
+        "MM": 79.966331, 
+        "TG": "D", 
+        "UD": false
+    }, 
+    "4-carboxyglutamate": {
+        "CF": "C1 O2", 
+        "DR": "AA0032", 
+        "KW": "Gamma-carboxyglutamic acid", 
+        "MM": 43.989829, 
+        "TG": "E", 
+        "UD": false
+    }, 
+    "4-hydroxyarginine": {
+        "CF": "O1", 
+        "DR": "AA0215", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "4-hydroxyglutamate": {
+        "CF": "O1", 
+        "DR": "AA0487", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "E", 
+        "UD": false
+    }, 
+    "4-hydroxyproline": {
+        "CF": "O1", 
+        "DR": "AA0030", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "P", 
+        "UD": false
+    }, 
+    "5'-chlorotryptophan": {
+        "CF": "Cl1 H-1", 
+        "DR": "AA0180", 
+        "KW": null, 
+        "MM": 33.961028, 
+        "TG": "W", 
+        "UD": false
+    }, 
+    "5-glutamyl 2-aminoadipic acid": {
+        "CF": "C6 H9 N1 O3", 
+        "DR": "AA0502", 
+        "KW": null, 
+        "MM": 143.058243, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "5-glutamyl N2-lysine": {
+        "CF": "C6 H12 N2 O1", 
+        "DR": "AA0505", 
+        "KW": "Isopeptide bond", 
+        "MM": 128.094963, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "5-glutamyl N2-ornithine": {
+        "CF": "C6 H12 N4 O1", 
+        "DR": null, 
+        "KW": "Isopeptide bond", 
+        "MM": null, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "5-glutamyl glutamate": {
+        "CF": "C5 H7 N1 O3", 
+        "DR": "AA0612", 
+        "KW": "Isopeptide bond", 
+        "MM": 129.042593, 
+        "TG": "E", 
+        "UD": false
+    }, 
+    "5-glutamyl glycerylphosphorylethanolamine": {
+        "CF": "C5 H12 N1 O5 P1", 
+        "DR": "AA0170", 
+        "KW": "Phosphoprotein", 
+        "MM": 197.045309, 
+        "TG": "E", 
+        "UD": false
+    }, 
+    "5-glutamyl polyglutamate": {
+        "CF": null, 
+        "DR": "AA0202", 
+        "KW": "Isopeptide bond", 
+        "MM": null, 
+        "TG": "E", 
+        "UD": false
+    }, 
+    "5-glutamyl polyglycine": {
+        "CF": null, 
+        "DR": "AA0201", 
+        "KW": "Isopeptide bond", 
+        "MM": null, 
+        "TG": "E", 
+        "UD": false
+    }, 
+    "5-hydroxy-3-methylproline (Ile)": {
+        "CF": "H-2 O1", 
+        "DR": "AA0473", 
+        "KW": "Hydroxylation; Methylation", 
+        "MM": 13.979265, 
+        "TG": "I", 
+        "UD": false
+    }, 
+    "5-hydroxylysine": {
+        "CF": "O1", 
+        "DR": "AA0028", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "5-methylarginine": {
+        "CF": "C1 H2", 
+        "DR": "AA0272", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "6'-bromotryptophan": {
+        "CF": "Br1 H-1", 
+        "DR": "AA0179", 
+        "KW": "Bromination", 
+        "MM": 77.910512, 
+        "TG": "W", 
+        "UD": false
+    }, 
+    "6'-chlorotryptophan": {
+        "CF": "Cl1 H-1", 
+        "DR": "AA0180", 
+        "KW": null, 
+        "MM": 33.961028, 
+        "TG": "W", 
+        "UD": false
+    }, 
+    "7'-hydroxytryptophan": {
+        "CF": "O1", 
+        "DR": "AA0520", 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "W", 
+        "UD": false
+    }, 
+    "ADP-ribosyl aspartic acid": {
+        "CF": "C15 H21 N5 O13 P2", 
+        "DR": null, 
+        "KW": "ADP-ribosylation", 
+        "MM": 541.061109, 
+        "TG": "D", 
+        "UD": false
+    }, 
+    "ADP-ribosyl glutamic acid": {
+        "CF": "C15 H21 N5 O13 P2", 
+        "DR": null, 
+        "KW": "ADP-ribosylation", 
+        "MM": 541.061109, 
+        "TG": "E", 
+        "UD": false
+    }, 
+    "ADP-ribosylarginine": {
+        "CF": "C15 H21 N5 O13 P2", 
+        "DR": "AA0168", 
+        "KW": "ADP-ribosylation", 
+        "MM": 541.061109, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "ADP-ribosylasparagine": {
+        "CF": "C15 H21 N5 O13 P2", 
+        "DR": "AA0231", 
+        "KW": "ADP-ribosylation", 
+        "MM": 541.061109, 
+        "TG": "N", 
+        "UD": false
+    }, 
+    "ADP-ribosylcysteine": {
+        "CF": "C15 H21 N5 O13 P2", 
+        "DR": "AA0169", 
+        "KW": "ADP-ribosylation", 
+        "MM": 541.061109, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "ADP-ribosylserine": {
+        "CF": "C15 H21 N5 O13 P2", 
+        "DR": "AA0237", 
+        "KW": "ADP-ribosylation", 
+        "MM": 541.061109, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "Alanine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0081", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Alanine derivative": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "A", 
+        "UD": false
+    }, 
+    "Allysine": {
+        "CF": "H-3 N-1 O1", 
+        "DR": "AA0121", 
+        "KW": null, 
+        "MM": -1.031634, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "Aminomalonic acid (Ser)": {
+        "CF": "H-2 O1", 
+        "DR": "AA0458", 
+        "KW": null, 
+        "MM": 13.979265, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "Arginine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0082", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Arginine derivative": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "Asparagine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0083", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Aspartate 1-(chondroitin 4-sulfate)-ester": {
+        "CF": null, 
+        "DR": "AA0219", 
+        "KW": "Proteoglycan", 
+        "MM": null, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Aspartic acid 1-[(3-aminopropyl)(5'-adenosyl)phosphono]amide": {
+        "CF": "C13 H19 N6 O6 P1", 
+        "DR": "AA0328", 
+        "KW": "Phosphoprotein", 
+        "MM": 386.110369, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Aspartic acid 1-amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0084", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Aspartyl aldehyde": {
+        "CF": "O-1", 
+        "DR": "AA0373", 
+        "KW": null, 
+        "MM": -15.994915, 
+        "TG": "D", 
+        "UD": false
+    }, 
+    "Asymmetric dimethylarginine": {
+        "CF": "C2 H4", 
+        "DR": "AA0068", 
+        "KW": "Methylation", 
+        "MM": 28.0313, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "Beta-decarboxylated aspartate": {
+        "CF": "C-1 O-2", 
+        "DR": "AA0001", 
+        "KW": null, 
+        "MM": -43.989829, 
+        "TG": "D", 
+        "UD": false
+    }, 
+    "Blocked amino end (Ala)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "A", 
+        "UD": false
+    }, 
+    "Blocked amino end (Arg)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "Blocked amino end (Asn)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "N", 
+        "UD": false
+    }, 
+    "Blocked amino end (Asp)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "D", 
+        "UD": false
+    }, 
+    "Blocked amino end (Asx)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "Asparagine or Aspartate", 
+        "UD": false
+    }, 
+    "Blocked amino end (Cys)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "Blocked amino end (Gln)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "Q", 
+        "UD": false
+    }, 
+    "Blocked amino end (Glu)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "E", 
+        "UD": false
+    }, 
+    "Blocked amino end (Gly)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "G", 
+        "UD": false
+    }, 
+    "Blocked amino end (Ile)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "I", 
+        "UD": false
+    }, 
+    "Blocked amino end (Leu)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "L", 
+        "UD": false
+    }, 
+    "Blocked amino end (Met)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "M", 
+        "UD": false
+    }, 
+    "Blocked amino end (Pro)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "P", 
+        "UD": false
+    }, 
+    "Blocked amino end (Ser)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "Blocked amino end (Thr)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "T", 
+        "UD": false
+    }, 
+    "Blocked amino end (Val)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "V", 
+        "UD": false
+    }, 
+    "Blocked amino end (Xaa)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "Undefined", 
+        "UD": false
+    }, 
+    "Blocked carboxyl end (Arg)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "Blocked carboxyl end (His)": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "Bromohistidine": {
+        "CF": "Br1 H-1", 
+        "DR": "AA0173", 
+        "KW": "Bromination", 
+        "MM": 77.910512, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "Citrulline": {
+        "CF": "H-1 N-1 O1", 
+        "DR": "AA0214", 
+        "KW": "Citrullination", 
+        "MM": 0.984016, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "Cyclo[(prolylserin)-O-yl] cysteinate": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "CysO-cysteine adduct": {
+        "CF": "C3 H5 N1 O1 S1", 
+        "DR": "AA0529", 
+        "KW": null, 
+        "MM": 103.009185, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Cysteine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0085", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Cysteine derivative": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "Cysteine methyl disulfide": {
+        "CF": "C1 H2 S1", 
+        "DR": "AA0101", 
+        "KW": "Methylation", 
+        "MM": 45.987721, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "Cysteine methyl ester": {
+        "CF": "C1 H2", 
+        "DR": "AA0105", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Cysteine persulfide": {
+        "CF": "S1", 
+        "DR": "AA0269", 
+        "KW": null, 
+        "MM": 31.972071, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "Cysteine sulfenic acid (-SOH)": {
+        "CF": "O1", 
+        "DR": "AA0205", 
+        "KW": "Oxidation", 
+        "MM": 15.994915, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "Cysteine sulfinic acid (-SO2H)": {
+        "CF": "O2", 
+        "DR": "AA0262", 
+        "KW": "Oxidation", 
+        "MM": 31.989829, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "Cysteine sulfonic acid (-SO3H)": {
+        "CF": "O3", 
+        "DR": "AA0556", 
+        "KW": "Oxidation", 
+        "MM": 47.984744, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "D-4-hydroxyvaline": {
+        "CF": "O1", 
+        "DR": "AA0388", 
+        "KW": "D-amino acid; Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "V", 
+        "UD": false
+    }, 
+    "D-alanine (Ala)": {
+        "CF": null, 
+        "DR": "AA0191", 
+        "KW": "D-amino acid", 
+        "MM": null, 
+        "TG": "A", 
+        "UD": false
+    }, 
+    "D-alanine (Ser)": {
+        "CF": "O-1", 
+        "DR": "AA0191", 
+        "KW": "D-amino acid", 
+        "MM": -15.994915, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "D-allo-isoleucine": {
+        "CF": null, 
+        "DR": "AA0192", 
+        "KW": "D-amino acid", 
+        "MM": null, 
+        "TG": "I", 
+        "UD": false
+    }, 
+    "D-asparagine": {
+        "CF": null, 
+        "DR": "AA0196", 
+        "KW": "D-amino acid", 
+        "MM": null, 
+        "TG": "N", 
+        "UD": false
+    }, 
+    "D-leucine": {
+        "CF": null, 
+        "DR": "AA0197", 
+        "KW": "D-amino acid", 
+        "MM": null, 
+        "TG": "L", 
+        "UD": false
+    }, 
+    "D-methionine": {
+        "CF": null, 
+        "DR": "AA0193", 
+        "KW": "D-amino acid", 
+        "MM": null, 
+        "TG": "M", 
+        "UD": false
+    }, 
+    "D-phenylalanine": {
+        "CF": null, 
+        "DR": "AA0194", 
+        "KW": "D-amino acid", 
+        "MM": null, 
+        "TG": "F", 
+        "UD": false
+    }, 
+    "D-serine (Cys)": {
+        "CF": "O1 S-1", 
+        "DR": "AA0195", 
+        "KW": "D-amino acid", 
+        "MM": -15.977156, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "D-serine (Ser)": {
+        "CF": null, 
+        "DR": "AA0195", 
+        "KW": "D-amino acid", 
+        "MM": null, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "D-threonine": {
+        "CF": null, 
+        "DR": "AA0199", 
+        "KW": "D-amino acid", 
+        "MM": null, 
+        "TG": "T", 
+        "UD": false
+    }, 
+    "D-tryptophan": {
+        "CF": null, 
+        "DR": "AA0198", 
+        "KW": "D-amino acid", 
+        "MM": null, 
+        "TG": "W", 
+        "UD": false
+    }, 
+    "D-valine": {
+        "CF": null, 
+        "DR": "AA0200", 
+        "KW": "D-amino acid", 
+        "MM": null, 
+        "TG": "V", 
+        "UD": false
+    }, 
+    "Deamidated asparagine": {
+        "CF": "H-1 N-1 O1", 
+        "DR": "AA0004", 
+        "KW": null, 
+        "MM": 0.984016, 
+        "TG": "N", 
+        "UD": false
+    }, 
+    "Deamidated glutamine": {
+        "CF": "H-1 N-1 O1", 
+        "DR": "AA0006", 
+        "KW": null, 
+        "MM": 0.984016, 
+        "TG": "Q", 
+        "UD": false
+    }, 
+    "Decarboxylated threonine": {
+        "CF": "C-1 O-2", 
+        "DR": "AA0465", 
+        "KW": null, 
+        "MM": -43.989829, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Diiodotyrosine": {
+        "CF": "H-2 I2", 
+        "DR": "AA0510", 
+        "KW": "Iodination", 
+        "MM": 251.793295, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "Dimethylated arginine": {
+        "CF": "C2 H4", 
+        "DR": null, 
+        "KW": "Methylation", 
+        "MM": 28.0313, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "Diphthamide": {
+        "CF": "C7 H14 N2 O1", 
+        "DR": "AA0040", 
+        "KW": null, 
+        "MM": 142.110065, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "FMN phosphoryl serine": {
+        "CF": "C17 H19 N4 O8 P1", 
+        "DR": "AA0350", 
+        "KW": "FMN; Phosphoprotein", 
+        "MM": 438.09405, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "FMN phosphoryl threonine": {
+        "CF": "C17 H19 N4 O8 P1", 
+        "DR": "AA0349", 
+        "KW": "FMN; Phosphoprotein", 
+        "MM": 438.09405, 
+        "TG": "T", 
+        "UD": false
+    }, 
+    "Glutamate methyl ester (Gln)": {
+        "CF": "C1 H1 N-1 O1", 
+        "DR": "AA0072", 
+        "KW": "Methylation", 
+        "MM": 14.999666, 
+        "TG": "Q", 
+        "UD": false
+    }, 
+    "Glutamate methyl ester (Glu)": {
+        "CF": "C1 H2", 
+        "DR": "AA0072", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "E", 
+        "UD": false
+    }, 
+    "Glutamic acid 1-amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0087", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Glutamine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0086", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Glutamine derivative": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "Q", 
+        "UD": false
+    }, 
+    "Glycine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0088", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Glycine radical": {
+        "CF": null, 
+        "DR": "AA0008", 
+        "KW": "Organic radical", 
+        "MM": null, 
+        "TG": "G", 
+        "UD": false
+    }, 
+    "Glycyl adenylate": {
+        "CF": "C10 H12 N5 O6 P1", 
+        "DR": "AA0511", 
+        "KW": "Nucleotide-binding; Phosphoprotein", 
+        "MM": 329.05252, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Histidine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0089", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Hydroxylated arginine": {
+        "CF": null, 
+        "DR": null, 
+        "KW": "Hydroxylation", 
+        "MM": null, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "Hydroxyproline": {
+        "CF": "O1", 
+        "DR": null, 
+        "KW": "Hydroxylation", 
+        "MM": 15.994915, 
+        "TG": "P", 
+        "UD": false
+    }, 
+    "Hypusine": {
+        "CF": "C4 H9 N1 O1", 
+        "DR": "AA0116", 
+        "KW": "Hypusine", 
+        "MM": 87.068414, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "Iodotyrosine": {
+        "CF": "H-1 I1", 
+        "DR": "AA0509", 
+        "KW": "Iodination", 
+        "MM": 125.896648, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "Isoleucine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0090", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Isoleucine derivative": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "I", 
+        "UD": false
+    }, 
+    "L-allo-isoleucine": {
+        "CF": null, 
+        "DR": "AA0546", 
+        "KW": null, 
+        "MM": null, 
+        "TG": "I", 
+        "UD": false
+    }, 
+    "L-isoglutamyl histamine": {
+        "CF": "C5 H6 N2", 
+        "DR": "AA0596", 
+        "KW": null, 
+        "MM": 94.053098, 
+        "TG": "Q", 
+        "UD": false
+    }, 
+    "Lactic acid": {
+        "CF": "H-1 N-1", 
+        "DR": "AA0186", 
+        "KW": null, 
+        "MM": -15.010899, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "Leucine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0091", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Leucine methyl ester": {
+        "CF": "C1 H2", 
+        "DR": "AA0299", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Lysine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0092", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Lysine derivative": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "Lysine methyl ester": {
+        "CF": "C1 H2", 
+        "DR": "AA0318", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Lysino-D-alanine (Lys)": {
+        "CF": "C3 H5 N1 O2", 
+        "DR": "AA0123", 
+        "KW": null, 
+        "MM": 87.032028, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "Methionine (R)-sulfoxide": {
+        "CF": "O1", 
+        "DR": "AA0581", 
+        "KW": "Oxidation", 
+        "MM": 15.994915, 
+        "TG": "M", 
+        "UD": false
+    }, 
+    "Methionine (S)-sulfoxide": {
+        "CF": "O1", 
+        "DR": null, 
+        "KW": "Oxidation", 
+        "MM": 15.994915, 
+        "TG": "M", 
+        "UD": false
+    }, 
+    "Methionine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0093", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Methionine derivative": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "M", 
+        "UD": false
+    }, 
+    "Methionine sulfone": {
+        "CF": "O2", 
+        "DR": "AA0251", 
+        "KW": "Oxidation", 
+        "MM": 31.989829, 
+        "TG": "M", 
+        "UD": false
+    }, 
+    "Methionine sulfoxide": {
+        "CF": "O1", 
+        "DR": null, 
+        "KW": "Oxidation", 
+        "MM": 15.994915, 
+        "TG": "M", 
+        "UD": false
+    }, 
+    "Methylhistidine": {
+        "CF": "C1 H2", 
+        "DR": null, 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "N,N,N-trimethylalanine": {
+        "CF": "C3 H6", 
+        "DR": "AA0062", 
+        "KW": "Methylation", 
+        "MM": 42.046402, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N,N,N-trimethylglycine": {
+        "CF": "C3 H6", 
+        "DR": "AA0619", 
+        "KW": "Methylation", 
+        "MM": 42.04695, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N,N,N-trimethylmethionine": {
+        "CF": "C3 H6", 
+        "DR": "AA0456", 
+        "KW": "Methylation", 
+        "MM": 42.046402, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N,N,N-trimethylserine": {
+        "CF": "C3 H6", 
+        "DR": "AA0535", 
+        "KW": "Methylation", 
+        "MM": 42.046402, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N,N-dimethylalanine": {
+        "CF": "C2 H4", 
+        "DR": "AA0433", 
+        "KW": "Methylation", 
+        "MM": 28.0313, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N,N-dimethylglycine": {
+        "CF": "C2 H4", 
+        "DR": "AA0620", 
+        "KW": "Methylation", 
+        "MM": 28.0313, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N,N-dimethylleucine": {
+        "CF": "C2 H4", 
+        "DR": "AA0538", 
+        "KW": "Methylation", 
+        "MM": 28.0313, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N,N-dimethylproline": {
+        "CF": "C2 H4", 
+        "DR": "AA0066", 
+        "KW": "Methylation", 
+        "MM": 28.030752, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N,N-dimethylserine": {
+        "CF": "C2 H4", 
+        "DR": "AA0534", 
+        "KW": "Methylation", 
+        "MM": 28.0313, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-D-glucuronoyl glycine": {
+        "CF": "C6 H8 O6", 
+        "DR": "AA0058", 
+        "KW": "Glycoprotein", 
+        "MM": 176.032088, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-acetylalanine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0041", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-acetylaspartate": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0042", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-acetylcysteine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0043", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-acetylglutamate": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0044", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-acetylglycine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0046", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-acetylisoleucine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0047", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-acetylmethionine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0049", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-acetylproline": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0050", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-acetylserine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0051", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-acetylthreonine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0052", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-acetyltyrosine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0053", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-acetylvaline": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0054", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-carbamoylalanine": {
+        "CF": "C1 H1 N1 O1", 
+        "DR": "AA0343", 
+        "KW": null, 
+        "MM": 43.005814, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-formylglycine": {
+        "CF": "C1 O1", 
+        "DR": "AA0057", 
+        "KW": "Formylation", 
+        "MM": 27.994915, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-formylmethionine": {
+        "CF": "C1 O1", 
+        "DR": "AA0021", 
+        "KW": "Formylation", 
+        "MM": 27.994915, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-methylalanine": {
+        "CF": "C1 H2", 
+        "DR": "AA0061", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-methylglycine": {
+        "CF": "C1 H2", 
+        "DR": "AA0063", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-methylisoleucine": {
+        "CF": "C1 H2", 
+        "DR": "AA0336", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-methylleucine": {
+        "CF": "C1 H2", 
+        "DR": "AA0337", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-methylmethionine": {
+        "CF": "C1 H2", 
+        "DR": "AA0064", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-methylphenylalanine": {
+        "CF": "C1 H2", 
+        "DR": "AA0065", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-methylproline": {
+        "CF": "C1 H2", 
+        "DR": "AA0419", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-methylserine": {
+        "CF": "C1 H2", 
+        "DR": "AA0533", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-methyltyrosine": {
+        "CF": "C1 H2", 
+        "DR": "AA0338", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-pyruvate 2-iminyl-cysteine": {
+        "CF": "C3 H2 O2", 
+        "DR": "AA0274", 
+        "KW": "Pyruvate", 
+        "MM": 70.005479, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N-pyruvate 2-iminyl-valine": {
+        "CF": "C3 H2 O2", 
+        "DR": "AA0275", 
+        "KW": "Pyruvate", 
+        "MM": 70.005479, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N2,N2-dimethylarginine": {
+        "CF": "C2 H4", 
+        "DR": "AA0569", 
+        "KW": "Methylation", 
+        "MM": 28.0313, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N2-acetylarginine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0354", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N2-succinyltryptophan": {
+        "CF": "C4 H4 O3", 
+        "DR": "AA0130", 
+        "KW": null, 
+        "MM": 100.016044, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "N4,N4-dimethylasparagine": {
+        "CF": "C2 H4", 
+        "DR": "AA0311", 
+        "KW": "Methylation", 
+        "MM": 28.0313, 
+        "TG": "N", 
+        "UD": false
+    }, 
+    "N4-methylasparagine": {
+        "CF": "C1 H2", 
+        "DR": "AA0070", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "N", 
+        "UD": false
+    }, 
+    "N5-methylarginine": {
+        "CF": "C1 H2", 
+        "DR": "AA0305", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "N5-methylglutamine": {
+        "CF": "C1 H2", 
+        "DR": "AA0071", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "Q", 
+        "UD": false
+    }, 
+    "N6,N6,N6-trimethyl-5-hydroxylysine": {
+        "CF": "C3 H6 O1", 
+        "DR": "AA0359", 
+        "KW": "Hydroxylation; Methylation", 
+        "MM": 58.041316, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6,N6,N6-trimethyllysine": {
+        "CF": "C3 H6", 
+        "DR": "AA0074", 
+        "KW": "Methylation", 
+        "MM": 42.046402, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6,N6-dimethyllysine": {
+        "CF": "C2 H4", 
+        "DR": "AA0075", 
+        "KW": "Methylation", 
+        "MM": 28.0313, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-(2-hydroxyisobutyryl)lysine": {
+        "CF": "C4 H6 O2", 
+        "DR": null, 
+        "KW": "Hydroxylation", 
+        "MM": 86.03678, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-(3,6-diaminohexanoyl)-5-hydroxylysine": {
+        "CF": null, 
+        "DR": null, 
+        "KW": "Hydroxylation", 
+        "MM": null, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-(ADP-ribosyl)lysine": {
+        "CF": "C15 H21 N5 O13 P2", 
+        "DR": "AA0476", 
+        "KW": "ADP-ribosylation", 
+        "MM": 541.061109, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-(beta-hydroxybutyryl)lysine": {
+        "CF": "C4 H6 O2", 
+        "DR": null, 
+        "KW": "Hydroxylation", 
+        "MM": 86.03677900000001, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-(pyridoxal phosphate)lysine": {
+        "CF": "C8 H8 N1 O5 P1", 
+        "DR": "AA0119", 
+        "KW": "Pyridoxal phosphate", 
+        "MM": 229.014009, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-(retinylidene)lysine": {
+        "CF": "C20 H26", 
+        "DR": "AA0120", 
+        "KW": "Retinal protein", 
+        "MM": 266.203451, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-1-carboxyethyl lysine": {
+        "CF": "C3 H4 O2", 
+        "DR": "AA0115", 
+        "KW": null, 
+        "MM": 72.021129, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-acetyllysine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0055", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-biotinyllysine": {
+        "CF": "C10 H14 N2 O2 S1", 
+        "DR": "AA0117", 
+        "KW": "Biotin", 
+        "MM": 226.077599, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-butyryllysine": {
+        "CF": "C4 H6 O1", 
+        "DR": "AA0532", 
+        "KW": null, 
+        "MM": 70.041865, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-carboxylysine": {
+        "CF": "C1 O2", 
+        "DR": "AA0114", 
+        "KW": null, 
+        "MM": 43.989829, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-crotonyllysine": {
+        "CF": "C4 H4 O1", 
+        "DR": "AA0567", 
+        "KW": null, 
+        "MM": 68.026215, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-formyllysine": {
+        "CF": "C1 O1", 
+        "DR": "AA0211", 
+        "KW": "Formylation", 
+        "MM": 27.994915, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-glutaryllysine": {
+        "CF": "C5 H6 O3", 
+        "DR": null, 
+        "KW": null, 
+        "MM": 114.031694, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-lipoyllysine": {
+        "CF": "C8 H12 O1 S2", 
+        "DR": "AA0118", 
+        "KW": "Lipoyl", 
+        "MM": 188.032957, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-malonyllysine": {
+        "CF": "C3 H2 O3", 
+        "DR": "AA0568", 
+        "KW": null, 
+        "MM": 86.000394, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-methylated lysine": {
+        "CF": null, 
+        "DR": null, 
+        "KW": "Methylation", 
+        "MM": null, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-methyllysine": {
+        "CF": "C1 H2", 
+        "DR": "AA0076", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-murein peptidoglycan lysine": {
+        "CF": null, 
+        "DR": "AA0218", 
+        "KW": "Peptidoglycan-anchor", 
+        "MM": null, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-poly(beta-hydroxybutyryl)lysine": {
+        "CF": null, 
+        "DR": null, 
+        "KW": "Hydroxylation", 
+        "MM": null, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-poly(methylaminopropyl)lysine": {
+        "CF": null, 
+        "DR": "AA0278", 
+        "KW": "Methylation", 
+        "MM": null, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-propionyllysine": {
+        "CF": "C3 H4 O1", 
+        "DR": "AA0475", 
+        "KW": null, 
+        "MM": 56.026215, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "N6-succinyllysine": {
+        "CF": "C4 H4 O3", 
+        "DR": "AA0545", 
+        "KW": null, 
+        "MM": 100.016044, 
+        "TG": "K", 
+        "UD": false
+    }, 
+    "Nitrated tyrosine": {
+        "CF": "H-1 N1 O2", 
+        "DR": null, 
+        "KW": "Nitration", 
+        "MM": 44.985078, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "O-(2-aminoethylphosphoryl)serine": {
+        "CF": "C2 H6 N1 O3 P1", 
+        "DR": "AA0497", 
+        "KW": "Phosphoprotein", 
+        "MM": 123.00853, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "O-(2-cholinephosphoryl)serine": {
+        "CF": "C5 H12 N1 O3 P1", 
+        "DR": "AA0498", 
+        "KW": "Phosphoprotein", 
+        "MM": 165.054931, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "O-(5'-phospho-DNA)-serine": {
+        "CF": null, 
+        "DR": "AA0246", 
+        "KW": "Covalent protein-DNA linkage; Phosphoprotein", 
+        "MM": null, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "O-(5'-phospho-DNA)-tyrosine": {
+        "CF": null, 
+        "DR": "AA0254", 
+        "KW": "Covalent protein-DNA linkage; Phosphoprotein", 
+        "MM": null, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "O-(5'-phospho-RNA)-serine": {
+        "CF": null, 
+        "DR": "AA0213", 
+        "KW": "Covalent protein-RNA linkage; Phosphoprotein", 
+        "MM": null, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "O-(5'-phospho-RNA)-tyrosine": {
+        "CF": null, 
+        "DR": "AA0249", 
+        "KW": "Covalent protein-RNA linkage; Phosphoprotein", 
+        "MM": null, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "O-(pantetheine 4'-phosphoryl)serine": {
+        "CF": "C11 H21 N2 O6 P1 S1", 
+        "DR": "AA0150", 
+        "KW": "Phosphopantetheine; Phosphoprotein", 
+        "MM": 340.085794, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "O-(phosphoribosyl dephospho-coenzyme A)serine": {
+        "CF": "C26 H42 N7 O19 P3 S1", 
+        "DR": "AA0167", 
+        "KW": "Phosphoprotein", 
+        "MM": 881.146903, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "O-(sn-1-glycerophosphoryl)serine": {
+        "CF": "C3 H7 O5 P1", 
+        "DR": "AA0264", 
+        "KW": "Phosphoprotein", 
+        "MM": 154.00311, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "O-8alpha-FAD tyrosine": {
+        "CF": "C27 H31 N9 O15 P2", 
+        "DR": "AA0145", 
+        "KW": "FAD", 
+        "MM": 783.141485, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "O-AMP-serine": {
+        "CF": "C10 H12 N5 O6 P1", 
+        "DR": null, 
+        "KW": "Nucleotide-binding; Phosphoprotein", 
+        "MM": 329.05252, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "O-AMP-threonine": {
+        "CF": "C10 H12 N5 O6 P1", 
+        "DR": "AA0267", 
+        "KW": "Nucleotide-binding; Phosphoprotein", 
+        "MM": 329.05252, 
+        "TG": "T", 
+        "UD": false
+    }, 
+    "O-AMP-tyrosine": {
+        "CF": "C10 H12 N5 O6 P1", 
+        "DR": "AA0203", 
+        "KW": "Nucleotide-binding; Phosphoprotein", 
+        "MM": 329.05252, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "O-UMP-histidine": {
+        "CF": "C9 H11 N2 O8 P1", 
+        "DR": "AA0372", 
+        "KW": "Nucleotide-binding; Phosphoprotein", 
+        "MM": 306.025302, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "O-UMP-serine": {
+        "CF": "C9 H11 N2 O8 P1", 
+        "DR": null, 
+        "KW": "Nucleotide-binding; Phosphoprotein", 
+        "MM": 306.025302, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "O-UMP-threonine": {
+        "CF": "C9 H11 N2 O8 P1", 
+        "DR": null, 
+        "KW": "Nucleotide-binding; Phosphoprotein", 
+        "MM": 306.025302, 
+        "TG": "T", 
+        "UD": false
+    }, 
+    "O-UMP-tyrosine": {
+        "CF": "C9 H11 N2 O8 P1", 
+        "DR": "AA0256", 
+        "KW": "Nucleotide-binding; Phosphoprotein", 
+        "MM": 306.025302, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "O-acetylserine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0364", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "O-acetylthreonine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0423", 
+        "KW": "Acetylation", 
+        "MM": 42.010565, 
+        "TG": "T", 
+        "UD": false
+    }, 
+    "O-methylthreonine": {
+        "CF": "C1 H2", 
+        "DR": "AA0464", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "T", 
+        "UD": false
+    }, 
+    "O3-poly(beta-hydroxybutyryl)serine": {
+        "CF": null, 
+        "DR": "AA0618", 
+        "KW": "Hydroxylation", 
+        "MM": null, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "Omega-N-methylarginine": {
+        "CF": "C1 H2", 
+        "DR": "AA0069", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "Omega-N-methylated arginine": {
+        "CF": null, 
+        "DR": null, 
+        "KW": "Methylation", 
+        "MM": null, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "Pentaglycyl murein peptidoglycan amidated alanine": {
+        "CF": null, 
+        "DR": "AA0383", 
+        "KW": "Peptidoglycan-anchor", 
+        "MM": null, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Pentaglycyl murein peptidoglycan amidated threonine": {
+        "CF": null, 
+        "DR": "AA0345", 
+        "KW": "Peptidoglycan-anchor", 
+        "MM": null, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Phenylalanine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0094", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Phosphoarginine": {
+        "CF": "H1 O3 P1", 
+        "DR": "AA0222", 
+        "KW": "Phosphoprotein", 
+        "MM": 79.966331, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "Phosphocysteine": {
+        "CF": "H1 O3 P1", 
+        "DR": "AA0034", 
+        "KW": "Phosphoprotein", 
+        "MM": 79.966331, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "Phosphohistidine": {
+        "CF": "H1 O3 P1", 
+        "DR": null, 
+        "KW": "Phosphoprotein", 
+        "MM": 79.966331, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "Phosphoserine": {
+        "CF": "H1 O3 P1", 
+        "DR": "AA0037", 
+        "KW": "Phosphoprotein", 
+        "MM": 79.966331, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "Phosphothreonine": {
+        "CF": "H1 O3 P1", 
+        "DR": "AA0038", 
+        "KW": "Phosphoprotein", 
+        "MM": 79.966331, 
+        "TG": "T", 
+        "UD": false
+    }, 
+    "Phosphotyrosine": {
+        "CF": "H1 O3 P1", 
+        "DR": "AA0039", 
+        "KW": "Phosphoprotein", 
+        "MM": 79.966331, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "PolyADP-ribosyl aspartic acid": {
+        "CF": null, 
+        "DR": null, 
+        "KW": "ADP-ribosylation", 
+        "MM": null, 
+        "TG": "D", 
+        "UD": false
+    }, 
+    "PolyADP-ribosyl glutamic acid": {
+        "CF": null, 
+        "DR": "AA0295", 
+        "KW": "ADP-ribosylation", 
+        "MM": null, 
+        "TG": "E", 
+        "UD": false
+    }, 
+    "Proline amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0095", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Pros-8alpha-FAD histidine": {
+        "CF": "C27 H31 N9 O15 P2", 
+        "DR": "AA0144", 
+        "KW": "FAD", 
+        "MM": 783.141485, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "Pros-methylhistidine": {
+        "CF": "C1 H2", 
+        "DR": "AA0073", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "Pros-phosphohistidine": {
+        "CF": "H1 O3 P1", 
+        "DR": "AA0036", 
+        "KW": "Phosphoprotein", 
+        "MM": 79.966331, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "Pyrrolidone carboxylic acid": {
+        "CF": "H-3 N-1", 
+        "DR": "AA0031", 
+        "KW": "Pyrrolidone carboxylic acid", 
+        "MM": -17.026549, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "Pyrrolidone carboxylic acid (Glu)": {
+        "CF": "H-2 O-1", 
+        "DR": "AA0031", 
+        "KW": "Pyrrolidone carboxylic acid", 
+        "MM": -18.010565, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "Pyruvic acid (Cys)": {
+        "CF": "H-3 N-1 O1 S-1", 
+        "DR": "AA0127", 
+        "KW": "Pyruvate", 
+        "MM": -33.003705, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "Pyruvic acid (Ser)": {
+        "CF": "H-3 N-1", 
+        "DR": "AA0127", 
+        "KW": "Pyruvate", 
+        "MM": -17.026549, 
+        "TG": "n", 
+        "UD": false
+    }, 
+    "S-(4-hydroxycinnamyl)cysteine": {
+        "CF": "C9 H6 O2", 
+        "DR": "AA0207", 
+        "KW": "Chromophore", 
+        "MM": 146.036779, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-(coelenterazin-3a-yl)cysteine": {
+        "CF": "C26 H19 N3 O3", 
+        "DR": null, 
+        "KW": null, 
+        "MM": 421.142641, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-(dipyrrolylmethanemethyl)cysteine": {
+        "CF": "C20 H22 N2 O8", 
+        "DR": "AA0252", 
+        "KW": null, 
+        "MM": 418.137616, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-4a-FMN cysteine": {
+        "CF": "C17 H21 N4 O9 P1", 
+        "DR": "AA0351", 
+        "KW": "FMN", 
+        "MM": 456.104615, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-6-FMN cysteine": {
+        "CF": "C17 H19 N4 O9 P1", 
+        "DR": "AA0220", 
+        "KW": "FMN", 
+        "MM": 454.088965, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-8alpha-FAD cysteine": {
+        "CF": "C27 H31 N9 O15 P2", 
+        "DR": "AA0143", 
+        "KW": "FAD", 
+        "MM": 783.141485, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-bacillithiol cysteine disulfide": {
+        "CF": "C13 H20 N2 O10 S1", 
+        "DR": "AA0563", 
+        "KW": null, 
+        "MM": 396.083866, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-carbamoylcysteine": {
+        "CF": "C1 H1 N1 O1", 
+        "DR": "AA0332", 
+        "KW": null, 
+        "MM": 43.005814, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-cyanocysteine": {
+        "CF": "C1 H-1 N1", 
+        "DR": "AA0333", 
+        "KW": null, 
+        "MM": 24.995249, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-cysteinyl cysteine": {
+        "CF": "C3 H5 N1 O2 S1", 
+        "DR": "AA0025", 
+        "KW": null, 
+        "MM": 119.004099, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-glutathionyl cysteine": {
+        "CF": "C10 H15 N3 O6 S1", 
+        "DR": "AA0229", 
+        "KW": "Glutathionylation", 
+        "MM": 305.068156, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-methylcysteine": {
+        "CF": "C1 H2", 
+        "DR": "AA0234", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-methylmethionine": {
+        "CF": "C1 H2", 
+        "DR": "AA0616", 
+        "KW": "Methylation", 
+        "MM": 14.015101999999999, 
+        "TG": "M", 
+        "UD": false
+    }, 
+    "S-nitrosocysteine": {
+        "CF": "H-1 N1 O1", 
+        "DR": "AA0230", 
+        "KW": "S-nitrosylation", 
+        "MM": 28.990164, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-poly(beta-hydroxybutyryl)cysteine": {
+        "CF": null, 
+        "DR": "AA0617", 
+        "KW": "Hydroxylation", 
+        "MM": null, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "S-selanylcysteine": {
+        "CF": "Se1", 
+        "DR": "AA0277", 
+        "KW": "Selenium", 
+        "MM": 79.916521, 
+        "TG": "C", 
+        "UD": false
+    }, 
+    "Serine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0096", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Serine microcin E492 siderophore ester": {
+        "CF": "C36 H37 N3 O20", 
+        "DR": "AA0374", 
+        "KW": null, 
+        "MM": 831.197041, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Sulfoserine": {
+        "CF": "O3 S1", 
+        "DR": "AA0361", 
+        "KW": "Sulfation", 
+        "MM": 79.956815, 
+        "TG": "S", 
+        "UD": false
+    }, 
+    "Sulfothreonine": {
+        "CF": "O3 S1", 
+        "DR": "AA0362", 
+        "KW": "Sulfation", 
+        "MM": 79.956815, 
+        "TG": "T", 
+        "UD": false
+    }, 
+    "Sulfotyrosine": {
+        "CF": "O3 S1", 
+        "DR": "AA0172", 
+        "KW": "Sulfation", 
+        "MM": 79.956815, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "Symmetric dimethylarginine": {
+        "CF": "C2 H4", 
+        "DR": "AA0067", 
+        "KW": "Methylation", 
+        "MM": 28.0313, 
+        "TG": "R", 
+        "UD": false
+    }, 
+    "Tele-(1,2,3-trihydroxypropan-2-yl)histidine": {
+        "CF": "C3 H6 O3", 
+        "DR": "AA0431", 
+        "KW": null, 
+        "MM": 90.031694, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "Tele-8alpha-FAD histidine": {
+        "CF": "C27 H31 N9 O15 P2", 
+        "DR": "AA0221", 
+        "KW": "FAD", 
+        "MM": 783.141485, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "Tele-8alpha-FMN histidine": {
+        "CF": "C17 H19 N4 O9 P1", 
+        "DR": "AA0352", 
+        "KW": "FMN", 
+        "MM": 454.088965, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "Tele-methylhistidine": {
+        "CF": "C1 H2", 
+        "DR": "AA0317", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "Tele-phosphohistidine": {
+        "CF": "H1 O3 P1", 
+        "DR": "AA0035", 
+        "KW": "Phosphoprotein", 
+        "MM": 79.966331, 
+        "TG": "H", 
+        "UD": false
+    }, 
+    "Threonine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0097", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Threonine methyl ester": {
+        "CF": "C1 H2", 
+        "DR": "AA0507", 
+        "KW": "Methylation", 
+        "MM": 14.01565, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Thyroxine": {
+        "CF": "C6 I4 O1", 
+        "DR": "AA0178", 
+        "KW": "Iodination", 
+        "MM": 595.612805, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "Triiodothyronine": {
+        "CF": "C6 H1 I3 O1", 
+        "DR": "AA0177", 
+        "KW": "Iodination", 
+        "MM": 469.716158, 
+        "TG": "Y", 
+        "UD": false
+    }, 
+    "Tryptophan amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0098", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Tryptophan derivative": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": null, 
+        "TG": "W", 
+        "UD": false
+    }, 
+    "Tryptophylquinone": {
+        "CF": "H-2 O2", 
+        "DR": "AA0148", 
+        "KW": null, 
+        "MM": 29.974179, 
+        "TG": "W", 
+        "UD": false
+    }, 
+    "Tyrosine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0099", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "Valine amide": {
+        "CF": "H1 N1 O-1", 
+        "DR": "AA0100", 
+        "KW": "Amidation", 
+        "MM": -0.984016, 
+        "TG": "c", 
+        "UD": false
+    }, 
+    "null": {
+        "CF": null, 
+        "DR": null, 
+        "KW": null, 
+        "MM": 0.0, 
+        "TG": null, 
+        "UD": false
+    },
+    "Carbamidomethyl": {
+        "CF": "H1 O3 P1", 
+        "DR": "AA0039", 
+        "KW": "Phosphoprotein", 
+        "MM": 57.021464, 
+        "TG": "C"
+    },
+    "N6-methyllysine": {
+        "CF": "C4 H6 O1", 
+        "DR": "AA0532", 
+        "KW": null, 
+        "MM": 70.041865, 
+        "TG": "K"
+    },
+    "Propionylated N-terminus": {
+        "CF": "C3 H4 O1", 
+        "DR": "AA0475", 
+        "KW": null, 
+        "MM": 56.026215, 
+        "TG": "n"
+    },
+    "O-acetylserine": {
+        "CF": "C2 H2 O1", 
+        "DR": "AA0364", 
+        "KW": "Acetylation", 
+        "MM": null, 
+        "TG": "S"
+    },
+    "Phosphoserine": {
+        "CF": "H1 O3 P1", 
+        "DR": "AA0037", 
+        "KW": "Phosphoprotein", 
+        "MM": null, 
+        "TG": "S"
+    }, 
+    "Phosphothreonine": {
+        "CF": "H1 O3 P1", 
+        "DR": "AA0038", 
+        "KW": "Phosphoprotein", 
+        "MM": null, 
+        "TG": "T"
+    }, 
+    "Phosphotyrosine": {
+        "CF": "H1 O3 P1", 
+        "DR": "AA0039", 
+        "KW": "Phosphoprotein", 
+        "MM": null, 
+        "TG": "Y"
+    }
+}
