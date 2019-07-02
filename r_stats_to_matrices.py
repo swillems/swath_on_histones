@@ -1,61 +1,52 @@
-#!/usr/bin/python2.7
+#!venv/bin/python
 
 
 import csv
-from collections import *
+import numpy as np
 
 
-in_file_name = "/home/sander/Documents/UGent/Proteomics/Laura/Relative_abundance/hESC_206_validaded_opgekuist.csv"
-out_file_name = "/home/sander/Documents/UGent/Proteomics/Laura/Relative_abundance/hESC_206_validaded_opgekuist_ra.csv"
-
-sequence_col_name = "Sequence"
-mod_col_name = "Variable modifications ([position] description)"
-normalized_abundance_col_name_pre = "171006_LDC_hESC_Naive"
-
-
-sequences_ra = defaultdict(lambda: defaultdict(Counter))
-sequences_total = defaultdict(Counter)
-with open(in_file_name, "rb") as raw_infile:
-    infile = csv.reader(raw_infile)
-    header1 = infile.next()
-    header2 = infile.next()
-    header3 = infile.next()
-    seq_cols = header3.index(sequence_col_name)
-    mod_cols = header3.index(mod_col_name)
-    int_cols = {
-        i: sample for i, sample in enumerate(header3) if sample.startswith(
-            normalized_abundance_col_name_pre
-        )
-    }
-    for line in infile:
-        sequence = line[seq_cols]
-        mods = line[mod_cols].split("|")
-        for int_col, sample in int_cols.iteritems():
-            try:
-                intensity = float(line[int_col])
-            except:
-                continue
-            if intensity <= 0:
-                continue
-            sequences_total[sequence][sample] += intensity
-            for mod in mods:
-                sequences_ra[sequence][mod][sample] += intensity
-
-with open(out_file_name, "wb") as raw_outfile:
-    outfile = csv.writer(raw_outfile)
-    outfile.writerow(
-        [
-            "Sequence",
-            "PTM"
-        ] + sorted(int_cols.values())
-    )
-    for sequence, mods in sorted(sequences_ra.iteritems()):
-        for mod, samples in sorted(mods.iteritems()):
-            if "Propionyl" in mod:
-                continue
-            col = [sequence, mod]
-            for sample, count in sorted(samples.iteritems()):
-                total = sequences_total[sequence][sample]
-                col.append(count / total)
-            outfile.writerow(col)
-
+base_path = "/home/sander/Documents/LabFBT/Colleague_work/180306_LdC_SWATH/Relative_abundance/190129_HDAC_BCS_SWATHpaper/"
+inputs = [
+    "HDAC",
+    "HDAC_norm",
+    "BCC_453",
+    "BCC_468",
+]
+for input in inputs:
+    if input == "HDAC":
+        in_file_name = base_path + "190130_HDAC_RA_SW_limma.csv"
+        out_file_name = base_path + "190130_HDAC_RA_SW_limma_matrices.csv"
+    if input == "HDAC_norm":
+        in_file_name = base_path + "181212_HDAC_norm_parse_edit_RA_forStats_SW_limma.csv"
+        out_file_name = base_path + "181212_HDAC_norm_parse_edit_RA_forStats_SW_limma_matrices.csv"
+    if input == "BCC_453":
+        in_file_name = base_path + "181211_BCC_Norm_parse_edit_RA_forStats_453_SW_limma.csv"
+        out_file_name = base_path + "181211_BCC_Norm_parse_edit_RA_forStats_453_SW_limma_matrices.csv"
+    if input == "BCC_468":
+        in_file_name = base_path + "181211_BCC_Norm_parse_edit_RA_forStats_468_SW_limma.csv"
+        out_file_name = base_path + "181211_BCC_Norm_parse_edit_RA_forStats_468_SW_limma_matrices.csv"
+    peps = []
+    contrasts = []
+    with open(in_file_name, "r") as raw_infile:
+        infile = csv.reader(raw_infile)
+        header = next(infile)
+        for row in infile:
+            if row[0].startswith("Time"):
+                t1, t2 = row[0].split("-")
+                t1 = int(t1[4:])
+                t2 = int(t2[4:])
+                contrasts.append((t1, t2))
+            if row[0].startswith("adj.P.Val"):
+                peps.append([float(i) for i in row[1:]])
+    peps = np.array(peps)
+    max_size = np.max(contrasts)
+    with open(out_file_name, "w") as raw_outfile:
+        outfile = csv.writer(raw_outfile)
+        for pep_index, pep_name in enumerate(header[1:]):
+            mat = np.zeros((max_size - 1, max_size - 1))
+            for contrast_index, (time_a, time_b) in enumerate(contrasts):
+                mat[time_b - 2, time_a - 1] = peps[contrast_index, pep_index]
+            tmp = outfile.writerow([pep_name])
+            for row in mat:
+                tmp = outfile.writerow(row)
+            tmp = outfile.writerow("")
